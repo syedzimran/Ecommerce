@@ -1,0 +1,119 @@
+D:\demoSite\Ecommerce\Ecommerce\bin\Ecommerce.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+D:\demoSite\Ecommerce\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\Newtonsoft.Json.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Net.Http.Formatting.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Helpers.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Http.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Http.WebHost.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Mvc.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Razor.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.WebPages.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.dll
+D:\demoSite\Ecommerce\Ecommerce\bin\Newtonsoft.Json.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Net.Http.Formatting.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Helpers.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Http.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Http.WebHost.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Mvc.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.Razor.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.WebPages.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+D:\demoSite\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.xml
+D:\demoSite\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+D:\demoSite\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+D:\demoSite\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+D:\project\Ecommerce\Ecommerce\bin\Ecommerce.dll
+D:\project\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+D:\project\Ecommerce\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+D:\project\Ecommerce\Ecommerce\bin\Newtonsoft.Json.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Net.Http.Formatting.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Helpers.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Http.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Http.WebHost.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Mvc.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Razor.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.WebPages.dll
+D:\project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.dll
+D:\project\Ecommerce\Ecommerce\bin\Newtonsoft.Json.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Net.Http.Formatting.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Helpers.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Http.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Http.WebHost.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Mvc.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.Razor.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.WebPages.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+D:\project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.xml
+D:\project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+D:\project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+D:\project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+G:\new update project\Ecommerce\Ecommerce\bin\Ecommerce.dll
+G:\new update project\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+G:\new update project\Ecommerce\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+G:\new update project\Ecommerce\Ecommerce\bin\Newtonsoft.Json.dll
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.Helpers.dll
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.Mvc.dll
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.Razor.dll
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.WebPages.dll
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.dll
+G:\new update project\Ecommerce\Ecommerce\bin\Newtonsoft.Json.xml
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.Helpers.xml
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.Mvc.xml
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.Razor.xml
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.WebPages.xml
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+G:\new update project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.xml
+G:\new update project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+G:\new update project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+G:\new update project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+F:\Ecommerce\Ecommerce\bin\Ecommerce.dll
+F:\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+F:\Ecommerce\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+F:\Ecommerce\Ecommerce\bin\Newtonsoft.Json.dll
+F:\Ecommerce\Ecommerce\bin\System.Web.Helpers.dll
+F:\Ecommerce\Ecommerce\bin\System.Web.Mvc.dll
+F:\Ecommerce\Ecommerce\bin\System.Web.Razor.dll
+F:\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+F:\Ecommerce\Ecommerce\bin\System.Web.WebPages.dll
+F:\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.dll
+F:\Ecommerce\Ecommerce\bin\Newtonsoft.Json.xml
+F:\Ecommerce\Ecommerce\bin\System.Web.Helpers.xml
+F:\Ecommerce\Ecommerce\bin\System.Web.Mvc.xml
+F:\Ecommerce\Ecommerce\bin\System.Web.Razor.xml
+F:\Ecommerce\Ecommerce\bin\System.Web.WebPages.xml
+F:\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+F:\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.xml
+F:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+F:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+F:\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\Project\Ecommerce\Ecommerce\bin\Ecommerce.dll.config
+C:\Project\Ecommerce\Ecommerce\bin\Ecommerce.dll
+C:\Project\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+C:\Project\Ecommerce\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\Ecommerce\Ecommerce\bin\Newtonsoft.Json.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Net.Http.Formatting.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Helpers.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Http.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Http.WebHost.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Mvc.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Razor.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.WebPages.dll
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Project\Ecommerce\Ecommerce\bin\Newtonsoft.Json.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Net.Http.Formatting.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Helpers.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Http.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Http.WebHost.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Mvc.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.Razor.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.WebPages.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Project\Ecommerce\Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+C:\Project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Project\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb

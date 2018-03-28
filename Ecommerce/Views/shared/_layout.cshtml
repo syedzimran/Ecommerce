@@ -1,0 +1,400 @@
+﻿
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="~/COntent/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/css/settings.css">
+    <!-- RS5.0 Layers and Navigation Styles -->
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/css/navigation.css">
+    <!-- REVOLUTION STYLE SHEETS -->
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="~/COntent/revo-slider/css/navigation.css">
+    <link rel="stylesheet" href="~/COntent/css/reset.css">
+    <!-- CSS reset -->
+    <link rel="stylesheet" href="~/COntent/css/style.css">
+    <!-- Resource style -->
+    <link rel="stylesheet" href="~/COntent/css/custom.css">
+    <script src="~/COntent/js/modernizr.js"></script>
+    <!-- Modernizr -->
+
+    <title>Content Filters | CodyHouse</title>
+</head>
+<body>
+    @RenderBody()
+    <header>
+        @*<div class="aa" style="position: relative; display: block;height: 107px;"><h1>hello</h1></div>*@
+      @Html.Action("Menu","Menu")
+        <div class="rev_slider_wrapper fullwidthbanner-container">
+
+            <!-- the ID here will be used in the inline JavaScript below to initialize the slider -->
+            <div id="rev_slider_1" class="rev_slider" data-version="5.4.5" style="display: none">
+
+                <ul>
+                    <!-- *********************** -->
+                    <!-- Slides to be added here -->
+                    <!-- *********************** -->
+                    <li
+                        data-transition="slideremoveup"
+                        data-delay="6000">
+                        <!-- Text Layer with Fade-In Transition -->
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
+                        <img src="images/slider/slider-bg-1.jpg" alt="Sky" class="rev-slidebg">
+                        <!-- Start New layer -->
+                        <div class="tp-caption tp-resizeme z-index-1"
+                            data-frames='[{"delay":900,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                            data-textalign="['center']"
+                            data-lineheight="['70', '32', '32', '24']"
+                            data-visibility="['on', 'on', 'on', 'on']"
+                            data-x="center"
+                            data-y="center"
+                            data-fontsize="['60', '24', '22', '18']"
+                            data-color="['#FFF', '#FFF', '#000', '#000']"
+                            style="z-index: 7; font-family: 'Catamaran', sans-serif; text-transform: uppercase; font-weight: 700; letter-spacing: 2px;">
+                            Crafting Digital
+                        <br>
+                            Experience
+                        </div>
+                        <!-- END LAYER -->
+                        <!-- Start New layer -->
+                        <div class="tp-caption tp-resizeme z-index-1"
+                            data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                            data-textalign="['center']"
+                            data-lineheight="['25']"
+                            data-visibility="['on', 'on', 'on', 'on']"
+                            data-x="center"
+                            data-y="center"
+                            data-voffset="['120']"
+                            data-fontsize="['18', '24', '22', '18']"
+                            data-color="['#FFF']"
+                            style="z-index: 7;">
+                            THIS IS DMEO THIS IS DEMO THIS IS DEMO
+                        <br>
+                            THIS IS DMEO THIS IS DEMO THIS IS DEMOTHIS IS DMEO THIS IS DEMO THIS IS DEMO
+                        <br>
+                            THIS IS DMEO THIS IS
+                        </div>
+                        <!-- END LAYER -->
+                        <a href="service.html" class="tp-caption btn btn-main"
+                            data-x="['center']"
+                            data-y="['center']"
+                            data-whitespace="nowrap"
+                            data-visibility="['on', 'on', 'on', 'on']"
+                            data-type="text"
+                            data-voffset="['200']"
+                            data-responsive_offset="on"
+                            data-responsive="on"
+                            data-frames='[{"delay":2000,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                            data-textalign="['center']"
+                            data-basealign="slide">Explore Us</a>
+
+
+                    </li>
+                    <!-- MINIMUM SLIDE STRUCTURE -->
+                    <li data-transition="slidingoverlayup"
+                        data-delay="6000">
+
+
+                        <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                        <img
+                            alt="Ocean"
+                            class="rev-slidebg"
+                            data-bgposition="center center"
+                            data-bgfit="cover"
+                            data-bgrepeat="no-repeat"
+                            src="images/slider/slider-bg-2.jpg">
+                        <!-- Start New layer -->
+                        <div class="tp-caption tp-resizeme z-index-1"
+                            data-frames='[{"delay":900,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                            data-textalign="['center']"
+                            data-lineheight="['70', '32', '32', '24']"
+                            data-visibility="['on', 'on', 'on', 'on']"
+                            data-x="center"
+                            data-y="center"
+                            data-fontsize="['60', '24', '22', '18']"
+                            data-color="['#FFF', '#FFF', '#000', '#000']"
+                            style="z-index: 7; font-family: 'Catamaran', sans-serif; text-transform: uppercase; font-weight: 700; letter-spacing: 2px;">
+                            We Combine Design
+                        <br>
+                            and Creativity
+                        </div>
+                        <!-- END LAYER -->
+                        <!-- Start New layer -->
+                        <div class="tp-caption tp-resizeme z-index-1"
+                            data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                            data-textalign="['center']"
+                            data-lineheight="['25']"
+                            data-visibility="['on', 'on', 'on', 'on']"
+                            data-x="center"
+                            data-y="center"
+                            data-voffset="['120']"
+                            data-fontsize="['18', '24', '22', '18']"
+                            data-color="['#FFF']"
+                            style="z-index: 7;">
+                            THIS IS DMEO THIS IS DEMO THIS IS DEMOTHIS IS DMEO THIS IS DEMO THIS IS DEMO
+                        <br>
+                            THIS IS DMEO THIS IS DEMO THIS IS DEMOTHIS
+                        <br>
+                            THIS IS DMEO THIS IS DEMO THIS IS DEMO
+                        </div>
+                        <!-- END LAYER -->
+                        <a href="service.html" class="tp-caption btn btn-main"
+                            data-x="['center']"
+                            data-y="['center']"
+                            data-whitespace="nowrap"
+                            data-visibility="['on', 'on', 'on', 'on']"
+                            data-type="text"
+                            data-voffset="['200']"
+                            data-responsive_offset="on"
+                            data-responsive="on"
+                            data-frames='[{"delay":2000,"speed":1500,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                            data-textalign="['center']"
+                            data-basealign="slide">Explore Us</a>
+
+                    </li>
+                </ul>
+                <div class="tp-bannertimer  tp-bottom" style="height: 6px; background-color: rgba(0, 0, 0, 0.25);"></div>
+
+            </div>
+
+        </div>
+    </header>
+
+    <main class="cd-main-content">
+		<div class="cd-tab-filter-wrapper">
+			<div class="cd-tab-filter"> 
+				<ul class="cd-filters">
+					<li class="placeholder"> 
+						<a data-type="all" href="#0">All</a> <!-- selected option on mobile -->
+					</li> 
+					<li class="filter"><a class="selected" href="#0" data-type="all">All</a></li>
+					<li class="filter" data-filter=".color-1"><a href="#0" data-type="color-1">Color 1</a></li>
+					<li class="filter" data-filter=".color-2"><a href="#0" data-type="color-2">Color 2</a></li>
+				</ul> <!-- cd-filters -->
+			</div> <!-- cd-tab-filter -->
+		</div> <!-- cd-tab-filter-wrapper -->
+
+		<section class="cd-gallery">
+            <div class="col-md-12 all_prod clearfix">
+                <div class="row">
+                    <div class="col-md-3 mix color-1  check1 radio2 option3 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                     <div class="col-md-3 mix color-2  check2 radio3 option2 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                     <div class="col-md-3 mix color-2 check1 radio2 option3 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                     <div class="col-md-3 mix color-1 check3 radio3 option1 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                     <div class="col-md-3 mix color-2 check1 radio2 option3 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                     <div class="col-md-3 mix color-1 check2 radio3 option1 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                     <div class="col-md-3 mix color-2 check1 radio2 option3 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                     <div class="col-md-3 mix color-1 check3 radio3 option3 prod"><span><img src="img/N280_51.jpg" alt="Image 1"></span></div>
+                </div>
+            </div>
+			@*<ul>
+				<li class="mix color-1 check1 radio2 option3"><img src="img/img-1.jpg" alt="Image 1"></li>
+				<li class="mix color-2 check2 radio2 option2"><img src="img/img-2.jpg" alt="Image 2"></li>
+				<li class="mix color-1 check3 radio3 option1"><img src="img/img-3.jpg" alt="Image 3"></li>
+				<li class="mix color-1 check3 radio2 option4"><img src="img/img-4.jpg" alt="Image 4"></li>
+				<li class="mix color-1 check1 radio3 option2"><img src="img/img-5.jpg" alt="Image 5"></li>
+				<li class="mix color-2 check2 radio3 option3"><img src="img/img-6.jpg" alt="Image 6"></li>
+				<li class="mix color-2 check2 radio2 option1"><img src="img/img-7.jpg" alt="Image 7"></li>
+				<li class="mix color-1 check1 radio3 option4"><img src="img/img-8.jpg" alt="Image 8"></li>
+				<li class="mix color-2 check1 radio2 option3"><img src="img/img-9.jpg" alt="Image 9"></li>
+				<li class="mix color-1 check3 radio2 option4"><img src="img/img-10.jpg" alt="Image 10"></li>
+				<li class="mix color-1 check3 radio3 option2"><img src="img/img-11.jpg" alt="Image 11"></li>
+				<li class="mix color-2 check1 radio3 option1"><img src="img/img-12.jpg" alt="Image 12"></li>
+				<li class="gap"></li>
+				<li class="gap"></li>
+				<li class="gap"></li>
+			</ul>*@
+			<div class="cd-fail-message">No results found</div>
+		</section> <!-- cd-gallery -->
+
+		<div class="cd-filter">
+			<form>
+				<div class="cd-filter-block">
+					<h4>Search</h4>
+					
+					<div class="cd-filter-content">
+						<input type="search" placeholder="Try color-1...">
+					</div> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+				<div class="cd-filter-block">
+					<h4>Check boxes</h4>
+
+					<ul class="cd-filter-content cd-filters list">
+						<li>
+							<input class="filter" data-filter=".check1" type="checkbox" id="checkbox1">
+			    			<label class="checkbox-label" for="checkbox1">Option 1</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".check2" type="checkbox" id="checkbox2">
+							<label class="checkbox-label" for="checkbox2">Option 2</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".check3" type="checkbox" id="checkbox3">
+							<label class="checkbox-label" for="checkbox3">Option 3</label>
+						</li>
+					</ul> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+				<div class="cd-filter-block">
+					<h4>Select</h4>
+					
+					<div class="cd-filter-content">
+						<div class="cd-select cd-filters">
+							<select class="filter" name="selectThis" id="selectThis">
+								<option value="">Choose an option</option>
+								<option value=".option1">Option 1</option>
+								<option value=".option2">Option 2</option>
+								<option value=".option3">Option 3</option>
+								<option value=".option4">Option 4</option>
+							</select>
+						</div> <!-- cd-select -->
+					</div> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+
+				<div class="cd-filter-block">
+					<h4>Radio buttons</h4>
+
+					<ul class="cd-filter-content cd-filters list">
+						<li>
+							<input class="filter" data-filter="" type="radio" name="radioButton" id="radio1" checked>
+							<label class="radio-label" for="radio1">All</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".radio2" type="radio" name="radioButton" id="radio2">
+							<label class="radio-label" for="radio2">Choice 2</label>
+						</li>
+
+						<li>
+							<input class="filter" data-filter=".radio3" type="radio" name="radioButton" id="radio3">
+							<label class="radio-label" for="radio3">Choice 3</label>
+						</li>
+					</ul> <!-- cd-filter-content -->
+				</div> <!-- cd-filter-block -->
+			</form>
+
+			<a href="#0" class="cd-close">Close</a>
+		</div> <!-- cd-filter -->
+
+		<a href="#0" class="cd-filter-trigger">Filters</a>
+	</main>
+    <!-- cd-main-content -->
+    <script src="~/Content/js/jquery.js"></script>
+    <script src="~/Content/bootstrap/js/bootstrap.js"></script>
+    <script src="~/Content/js/jquery.mixitup.min.js"></script>
+    <script src="~/Content/js/main.js"></script>
+    <!-- Resource jQuery -->
+    <script type="text/javascript" src="~/Content/revo-slider/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/jquery.themepunch.revolution.min.js"></script>
+    <!-- Custom js -->
+    @*    <script src="~/Content/js/script.js"></script>*@
+
+    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
+    (Load Extensions only on Local File Systems ! 
+    The following part can be removed on Server for On Demand Loading) -->
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="~/Content/revo-slider/js/extensions/revolution.extension.video.min.js"></script>
+
+    <script>
+        jQuery(document).ready(function () {
+
+        @*/* initialize the slider based on the Slider's ID attribute */*@
+            jQuery('#rev_slider_1').show().revolution({
+
+          @*  /* options are 'auto', 'fullwidth' or 'fullscreen' */*@
+                sliderLayout: 'fullscreen',
+
+           @* /* basic navigation arrows and bullets */*@
+                navigation: {
+
+                    arrows: {
+                        style: "zeus",
+                        enable: true,
+                        hide_onmobile: true,
+                        hide_under: 600,
+                        hide_onleave: true,
+                        hide_delay: 200,
+                        hide_delay_mobile: 1200,
+                        tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
+                        left: {
+                            h_align: "left",
+                            v_align: "center",
+                            h_offset: 30,
+                            v_offset: 0
+                        },
+                        right: {
+                            h_align: "right",
+                            v_align: "center",
+                            h_offset: 30,
+                            v_offset: 0
+                        }
+                    }
+                      ,
+                    bullets: {
+                        enable: false,
+                        hide_onmobile: true,
+                        hide_under: 600,
+                        style: "metis",
+                        hide_onleave: true,
+                        hide_delay: 200,
+                        hide_delay_mobile: 1200,
+                        direction: "horizontal",
+                        h_align: "center",
+                        v_align: "bottom",
+                        h_offset: 0,
+                        v_offset: 30,
+                        space: 5,
+                        tmp: '<span class="tp-bullet-img-wrap">  <span class="tp-bullet-image"></span></span><span class="tp-bullet-title">{{title}}</span>'
+                    }
+                }
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+            var header = $("nav");
+            $(window).scroll(function () {
+                var scroll = $(window).scrollTop();
+                if (scroll >= 60) {
+                    header.removeClass("navbar-inverse");
+                    header.addClass("navbar-fixed-top");
+                    header.css('background','#fff')
+                } else if (scroll <= 1) {
+                    header.addClass("navbar-inverse");
+                    header.removeClass("navbar-fixed-top");
+                    header.removeAttr('style')
+                }
+            });
+    </script>
+</body>
+</html>
